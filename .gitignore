@@ -1,0 +1,16 @@
+# Private working notes
+/project_notes/
+/notes/cv_project_entry.md
+/notes/week8_wednesday_review.md
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
