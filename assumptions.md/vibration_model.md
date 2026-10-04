@@ -2,9 +2,9 @@
 - The fan-and-motor module and its movement are fictional.
 - Only one up-and-down movement at the free end of the arm is modelled.
 - The arm is represented by its calculated tip stiffness.
-- The same invented moving-module mass will be used for both material cases; a value will be chosen later on.
+- The same invented 10 kg moving-module mass is used for both material cases.
 - The arm's own distributed mass, its fasteners, and other ways it could bend are omitted.
-- Damping and the repeated force will be assigned illustrative values.
+- Damping and the repeated force use the illustrative values listed below.
 - The chosen static 100 N force is not the repeated vibration force.
 - No real equipment or employer information is used.
 
