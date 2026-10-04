@@ -55,8 +55,6 @@ The four notebooks were run from fresh kernels during the project check. Both CS
 
 ## Illustrative results
 
-**Check each value against the notebook output before publishing this README.**
-
 | Comparison | Result for the invented case |
 |---|---|
 | Heat removed over the fictional day | 547.00 kWh thermal |
