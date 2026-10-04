@@ -39,7 +39,7 @@ The R-513A chiller describes the **conceptual system arrangement**. This project
 | `notebooks/02_material_support.ipynb` | Idealised support-arm material comparison |
 | `notebooks/03_vibration_model.ipynb` | Simplified vibration comparison and mathematical checks |
 | `notebooks/04_sensitivity.ipynb` | One-at-a-time sensitivity comparisons |
-| `figures/` | Graphs produced by the notebooks |
+| `figures/` | Notebook graphs and support-arm illustration |
 | `assumptions.md/` | Files identifying invented inputs and model boundaries |
 | `sources.md/` | Files recording public sources for borrowed equations and material properties |
 
