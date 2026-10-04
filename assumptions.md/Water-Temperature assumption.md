@@ -1,0 +1,2 @@
+# Water temperature assumption
+For the fictional peak-load calculation, chilled water enters the AHU coil at 7°C and returns at 12°C. These temperatures are invented. Pipe and pump heat gains are ignored.

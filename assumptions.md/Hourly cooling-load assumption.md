@@ -1,0 +1,3 @@
+## Hourly cooling-load assumption
+Each value in cooling_demand.csv is an invented average heat load for the one-hour period beginning at the time shown. For example, the 12:00 value represents 12:00–13:00.
+We assume the cooling system removes that heat during the same hour. Therefore, adding the 24 hourly loads and multiplying each by one hour gives 547 kWh of heat removed in one day. This is thermal energy, not the chiller's electricity use.

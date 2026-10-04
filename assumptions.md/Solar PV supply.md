@@ -1,0 +1,1 @@
+The 24 hourly PV values in data/pv_supply.csv are invented one-hour average electrical powers. Peak output is 18 kW; daily production is 101 kWh electric. This PV supply is separate from the solar heat entering the equipment room.

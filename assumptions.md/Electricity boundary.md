@@ -1,0 +1,2 @@
+AHU fan = 1.2 kW; chilled-water pump = 0.6 kW; both run for all 24 one-hour intervals. Outdoor condenser fan is included in the assumed chiller-package COP. Fan heat added to the room is omitted from this simplified cooling-load model.
+Improved scenario COP = 4.0, invented and constant for all 24 hours. Cooling loads, AHU fan power, pump power, and operating hours are identical to the baseline.
